@@ -1,6 +1,6 @@
 *- Hi, I’m @fl4xx*<br>
-*- I’m interested in Pentest web, web vulnerabilities and programming*<br>
-*- I’m currently learning Node JS and C*<br>
+*- I’m interested in pwn and programming*<br>
+*- I’m currently learning C*<br>
 *- I’m looking to collaborate on help beginners*<br>
 
 <!---
